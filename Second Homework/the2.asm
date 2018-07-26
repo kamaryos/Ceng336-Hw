@@ -1,7 +1,7 @@
 ;list P=18F8722
 ;Group 41
 ;Bar?? Su?ur
-;Abdullah Mert Tunçay
+;Abdullah Mert TunÃ§ay
 #include <p18f8722.inc>
 config OSC = HSPLL, FCMEN = OFF, IESO = OFF, PWRT = OFF, BOREN = OFF, WDT = OFF, MCLRE = ON, LPT1OSC = OFF, LVP = OFF, XINST = OFF, DEBUG = OFF
 
